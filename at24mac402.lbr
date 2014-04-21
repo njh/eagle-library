@@ -70,6 +70,7 @@
 <wire x1="5.08" y1="-5.08" x2="5.08" y2="5.08" width="0.127" layer="21"/>
 <wire x1="5.08" y1="5.08" x2="-5.08" y2="5.08" width="0.127" layer="21"/>
 <circle x="-4.445" y="4.445" radius="0.254" width="0.127" layer="21"/>
+<text x="-5.08" y="5.08" size="1.27" layer="21">&gt;NAME</text>
 </package>
 <package name="SOIC127P600X175-8N">
 <smd name="1" x="-2.3622" y="1.905" dx="2.1844" dy="0.5588" layer="1"/>
